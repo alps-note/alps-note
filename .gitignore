@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+
+# Compiled files
+dist/
+public/build/
+
+# Editor-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Dependency directories
+.jshintrc
+.jshintignore
+.eslintcache
+*.log
+*.logs
+
+# User-specific files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.sas[ic]?
+*.db
+*.sqlite
+*.sqlite3
+*.xlsx
+*.xls
+*.db-shm
+*.db-wal
